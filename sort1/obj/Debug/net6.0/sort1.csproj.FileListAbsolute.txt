@@ -1,0 +1,15 @@
+C:\Users\HomePK\Desktop\kod1\bootcapm\sort1\bin\Debug\net6.0\sort1.exe
+C:\Users\HomePK\Desktop\kod1\bootcapm\sort1\bin\Debug\net6.0\sort1.deps.json
+C:\Users\HomePK\Desktop\kod1\bootcapm\sort1\bin\Debug\net6.0\sort1.runtimeconfig.json
+C:\Users\HomePK\Desktop\kod1\bootcapm\sort1\bin\Debug\net6.0\sort1.dll
+C:\Users\HomePK\Desktop\kod1\bootcapm\sort1\bin\Debug\net6.0\sort1.pdb
+C:\Users\HomePK\Desktop\kod1\bootcapm\sort1\obj\Debug\net6.0\sort1.csproj.AssemblyReference.cache
+C:\Users\HomePK\Desktop\kod1\bootcapm\sort1\obj\Debug\net6.0\sort1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HomePK\Desktop\kod1\bootcapm\sort1\obj\Debug\net6.0\sort1.AssemblyInfoInputs.cache
+C:\Users\HomePK\Desktop\kod1\bootcapm\sort1\obj\Debug\net6.0\sort1.AssemblyInfo.cs
+C:\Users\HomePK\Desktop\kod1\bootcapm\sort1\obj\Debug\net6.0\sort1.csproj.CoreCompileInputs.cache
+C:\Users\HomePK\Desktop\kod1\bootcapm\sort1\obj\Debug\net6.0\sort1.dll
+C:\Users\HomePK\Desktop\kod1\bootcapm\sort1\obj\Debug\net6.0\refint\sort1.dll
+C:\Users\HomePK\Desktop\kod1\bootcapm\sort1\obj\Debug\net6.0\sort1.pdb
+C:\Users\HomePK\Desktop\kod1\bootcapm\sort1\obj\Debug\net6.0\sort1.genruntimeconfig.cache
+C:\Users\HomePK\Desktop\kod1\bootcapm\sort1\obj\Debug\net6.0\ref\sort1.dll
